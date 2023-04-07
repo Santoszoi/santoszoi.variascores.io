@@ -1,0 +1,2 @@
+# santoszoi.variascores.io
+cores
